@@ -1,6 +1,6 @@
 
 - 👋 Hi, `I’m Osama Salama`
-- 👀 I’m  `PHP Laravel Developer - Nodejs `
+- 👀 I’m  `Senior Software Engineer - Backend (PHP/Laravel/Nodejs)`
 
 
 
